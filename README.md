@@ -1,16 +1,47 @@
-## Hi there 👋
+# Hi 👋, I'm Vinit K
 
-<!--
-**Vinit538/Vinit538** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Full Stack Developer | Java | Spring Boot | React | Android
 
-Here are some ideas to get you started:
+I build scalable web applications, mobile applications,
+REST APIs and business solutions.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me
+
+- 💻 Full Stack Developer
+- ☕ Java & Spring Boot
+- ⚛️ React
+- 📱 Android Development
+- 🗄️ MySQL / PostgreSQL
+- 🔐 REST APIs & Authentication
+- 🚀 Building real-world applications
+
+## 🛠️ Tech Stack
+
+### Backend
+Java • Spring Boot • Hibernate • JPA • REST API
+
+### Frontend
+React • JavaScript • HTML • CSS
+
+### Mobile
+Android • Java • Kotlin
+
+### Database
+MySQL • PostgreSQL • MongoDB
+
+### Tools
+Git • GitHub • Postman • VS Code • IntelliJ IDEA
+
+## 📌 Featured Projects
+
+- 💰 Spend Analyzer
+- 🏦 Financial Services Platform
+- 🎓 LearnGuru
+- 🌐 Portfolio Website
+- 📱 Android Applications
+
+## 📫 Connect With Me
+
+- GitHub: https://github.com/Vinit538
+- LinkedIn: YOUR_LINKEDIN
+- Portfolio: YOUR_PORTFOLIO
