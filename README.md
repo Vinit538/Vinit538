@@ -2,11 +2,11 @@
 
 # 👋 Hi, I'm Vinit K
 
-### 🚀 Full Stack Developer
+### 💻 Full Stack Developer
 
 **Java • Spring Boot • React • Android**
 
-I build scalable web applications, mobile applications,
+Building scalable web applications, mobile applications,
 REST APIs and real-world business solutions.
 
 <p>
@@ -17,7 +17,7 @@ REST APIs and real-world business solutions.
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" />
   </a>
   <a href="YOUR_PORTFOLIO_URL">
-    <img src="https://img.shields.io/badge/Portfolio-Visit-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white" />
+    <img src="https://img.shields.io/badge/Portfolio-Visit-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white" />
   </a>
 </p>
 
@@ -27,106 +27,134 @@ REST APIs and real-world business solutions.
 
 ## 👨‍💻 About Me
 
-I'm a **Full Stack Developer** passionate about building modern,
-reliable and scalable applications.
+> 🚀 Full Stack Developer focused on building reliable,
+> scalable and user-friendly applications.
 
-- 💻 Full Stack Web Development
-- ☕ Java & Spring Boot backend development
-- ⚛️ React frontend development
-- 📱 Android application development
-- 🔐 REST APIs & authentication systems
-- 🗄️ Database design and integration
-- 🚀 Building practical, real-world software solutions
-- 📚 Continuously learning and improving my development skills
+I specialize in developing complete applications from
+backend APIs and database integration to modern frontend
+interfaces and Android applications.
+
+- ☕ Java & Spring Boot
+- ⚛️ React & JavaScript
+- 📱 Android Development
+- 🔐 REST APIs & Authentication
+- 🗄️ MySQL & SQL
+- 🏗️ Full Stack Application Development
+- 🚀 Real-world business solutions
 
 ---
 
-## 🛠️ Tech Stack
+# 🛠️ Tech Stack
 
-### 💻 Languages
-
-<p>
-  <img src="https://skillicons.dev/icons?i=java,javascript,html,css" />
-</p>
-
-### ⚙️ Backend
+### 💻 Programming Languages
 
 <p>
-  <img src="https://skillicons.dev/icons?i=spring,hibernate" />
+<img src="https://skillicons.dev/icons?i=java,javascript,html,css" />
 </p>
 
-**Java • Spring Boot • Hibernate • JPA • REST API**
+### ⚙️ Backend & Systems
+
+<p>
+<img src="https://skillicons.dev/icons?i=spring,hibernate" />
+</p>
+
+`Java` `Spring Boot` `Hibernate` `JPA` `REST API`
 
 ### 🎨 Frontend
 
 <p>
-  <img src="https://skillicons.dev/icons?i=react,javascript,html,css" />
+<img src="https://skillicons.dev/icons?i=react,javascript,html,css" />
 </p>
 
-### 📱 Mobile
+`React` `JavaScript` `HTML5` `CSS3`
+
+### 📱 Mobile Development
 
 <p>
-  <img src="https://skillicons.dev/icons?i=androidstudio" />
+<img src="https://skillicons.dev/icons?i=androidstudio" />
 </p>
 
-**Android • Java**
+`Android` `Java`
 
 ### 🗄️ Database
 
 <p>
-  <img src="https://skillicons.dev/icons?i=mysql,postgresql" />
+<img src="https://skillicons.dev/icons?i=mysql" />
 </p>
 
-**MySQL • SQL**
+`MySQL` `SQL`
 
-### 🔧 Tools
+### 🔧 Tools & Platforms
 
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,postman,vscode,idea" />
+<img src="https://skillicons.dev/icons?i=git,github,postman,vscode,idea" />
 </p>
 
 ---
 
-## 🚀 Featured Projects
+# 📚 Core Concepts
 
-### 💰 Spend Analyzer
+| Category | Skills |
+|----------|--------|
+| **Programming** | OOP · Data Structures · Algorithms |
+| **Backend** | REST APIs · Spring Boot · JPA · Hibernate |
+| **Frontend** | React · JavaScript · HTML · CSS |
+| **Database** | MySQL · SQL · Database Design |
+| **Security** | Authentication · Authorization · OTP |
+| **Development** | Debugging · API Integration · Git |
+| **Architecture** | MVC · Layered Architecture · REST Architecture |
+
+---
+
+# 🚀 Featured Projects
+
+## 💰 Spend Analyzer
 
 A personal finance application designed to help users
-track expenses, analyze spending and manage their finances.
+track expenses, manage income and understand spending
+patterns.
 
-**Tech:** Android • Java • Spring Boot • MySQL
+**Tech Stack**
 
----
-
-### 🏦 Financial Services Platform
-
-A business-oriented financial application with
-authentication, OTP verification, application processing
-and service-status management.
-
-**Tech:** Java • Spring Boot • React • MySQL • REST API
+`Android` `Java` `Spring Boot` `MySQL`
 
 ---
 
-### 🎓 LearnGuru
+## 🏦 Financial Services Platform
 
-An educational platform built to provide a structured
-learning experience through web technologies.
+A business-oriented financial application supporting
+authentication, OTP verification, application processing,
+document verification and service-status management.
 
-**Tech:** React • Java • Spring Boot
+**Tech Stack**
 
----
-
-### 🌐 Developer Portfolio
-
-A responsive portfolio website showcasing my development
-skills, projects and services.
-
-**Tech:** React • JavaScript • HTML • CSS
+`Java` `Spring Boot` `React` `MySQL` `REST API`
 
 ---
 
-## 📊 GitHub Stats
+## 🎓 LearnGuru
+
+An educational application designed to provide users
+with a structured learning experience.
+
+**Tech Stack**
+
+`React` `Java` `Spring Boot`
+
+---
+
+## 🌐 Developer Portfolio
+
+A responsive portfolio website showcasing my skills,
+projects and development services.
+
+**Tech Stack**
+
+`React` `JavaScript` `HTML` `CSS`
+
+---
+
+# 📊 GitHub Stats
 
 <div align="center">
 
@@ -138,7 +166,7 @@ skills, projects and services.
 
 ---
 
-## 🔥 GitHub Streak
+# 🔥 GitHub Streak
 
 <div align="center">
 
@@ -148,7 +176,7 @@ skills, projects and services.
 
 ---
 
-## 🐍 Contribution Graph
+# 🐍 Contribution Graph
 
 <div align="center">
 
@@ -158,19 +186,46 @@ skills, projects and services.
 
 ---
 
-## 📈 My Development Journey
+# 🎯 Currently Building
 
-```text
-Java
-  │
-  ├── Spring Boot
-  │     ├── REST APIs
-  │     ├── Authentication
-  │     └── Database Integration
-  │
-  ├── React
-  │     ├── Modern UI
-  │     └── API Integration
-  │
-  └── Android
-        └── Mobile Applications  
+- 🚀 Full Stack Web Applications
+- ☕ Spring Boot REST APIs
+- 📱 Android Applications
+- 🔐 Authentication & OTP Systems
+- 🏦 Business & Financial Applications
+- 📚 Improving System Design & Backend Architecture
+
+---
+
+# 🤝 Let's Connect
+
+<div align="center">
+
+I'm open to discussing software development,
+projects, collaborations and new opportunities.
+
+<br>
+
+<a href="https://github.com/Vinit538">
+<img src="https://img.shields.io/badge/GitHub-Vinit538-181717?style=for-the-badge&logo=github" />
+</a>
+
+<a href="YOUR_LINKEDIN_URL">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" />
+</a>
+
+<a href="YOUR_PORTFOLIO_URL">
+<img src="https://img.shields.io/badge/Portfolio-Visit-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white" />
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+### 💻 Code • Build • Learn • Repeat 🚀
+
+⭐ Thanks for visiting my profile!
+
+</div>
